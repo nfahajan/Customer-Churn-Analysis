@@ -48,7 +48,7 @@ jupyter notebook Customer_Churn_Analysis.ipynb
 - Mount your Google Drive if using the dataset from there
 - Run all cells
 
-## 📊 Dataset Information
+##  Dataset Information
 
 The analysis uses a telecommunications customer dataset with the following key features:
 
@@ -60,7 +60,7 @@ The analysis uses a telecommunications customer dataset with the following key f
   - Usage patterns (Tenure, Monthly GB download, Streaming services)
   - Billing information (Payment method, Paperless billing)
 
-## 🔍 Analysis Components
+##  Analysis Components
 
 ### 1. Data Cleaning & Preprocessing
 
@@ -98,7 +98,7 @@ The analysis uses a telecommunications customer dataset with the following key f
    Conclusion: Customer drop-off is led by short contracts, high monthly charges, and billing/payment methods. Retention can be improved
    with loyalty programs, discounts for long-term contracts, and better engagement with at-risk segments.
 
-## 🛠️ Technical Details
+## 🛠 Technical Details
 
 ### Libraries Used
 
@@ -118,3 +118,4 @@ The analysis uses a telecommunications customer dataset with the following key f
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
