@@ -3,7 +3,8 @@
 ## Project Overview
 
 This project analyzes customer churn patterns in a telecommunications company using machine learning and data visualization techniques. The analysis helps identify factors that contribute to customer attrition and provides insights for developing retention strategies.
-
+<img src="/churn_sum_1.png?raw=true" />
+<img src="/churn_sum_2.png?raw=true" />
 ## Objectives
 
 - Analyze customer churn patterns and identify key factors
@@ -118,4 +119,5 @@ The analysis uses a telecommunications customer dataset with the following key f
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
 
